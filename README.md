@@ -25,4 +25,4 @@ $ npm install --save-dev gulp-cmd-packer
 
 用法和grunt-cmd-transport很像，看看代码应该就差不多了
 
-如果有问题 [梅雪香](mailto:wy_hd@163.com)
+如果有问题 请联系：[梅雪香](mailto:wy_hd@163.com)
